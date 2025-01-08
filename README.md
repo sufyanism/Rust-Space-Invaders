@@ -4,8 +4,7 @@ A simple Space Invader-like 2D game using the Bevy engine in Rust. Bevy is a mod
 
 ## Prerequisites
 Ensure that you have Rust installed on your machine. You can install it from here.
-Bevy crate: We'll be using the Bevy engine for the game.
-Step 1: Set Up the Project “edit name as per choice”
+Set Up the Project “edit name as per choice”
 First, create a new Rust project:
 `cargo new space_invaders`
 `cd space_invaders`
