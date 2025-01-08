@@ -16,6 +16,7 @@ First, create a new Rust project:
 *	Enemies will slowly move downward and the player needs to shoot them to prevent being hit.
 
 
-
 # Screencast
+https://github.com/user-attachments/assets/338d7c13-3284-435c-b8fd-3562678a314f
+
 
