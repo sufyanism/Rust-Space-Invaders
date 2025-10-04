@@ -21,9 +21,9 @@ cargo run
 
 ### Prerequisites
 Set Up the Project “edit name as per choice”
-First, create a new Rust project:
-`cargo new space_invaders`
-`cd space_invaders`
+First, create a new Rust project:</br>
+`cargo new space_invaders` </br>
+`cd space_invaders`</br>
 `cargo run` 
 
 </br>
@@ -60,4 +60,5 @@ You can learn more about me and my work at [sufyanism.com](https://sufyanism.com
 </br>
 
 **Thank you for visiting!** 
+
 
